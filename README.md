@@ -5,12 +5,10 @@
 It was created in the 1980s by Francesco Cirillo. It breaks work down into intervals and allows a short break at the end. It has increased in popularity due to its ability to minimize distractions.
 
 ## About Pomodoro Timer
-This project builts a clock, so-called Pomodoro Timer, for Pomodoro Technique. (Edit)
-This project is a Mini-Game in Python, following OOP and using the Turtle module.
-The goal of this game is to help a turtle to cross the street.
+This project builts a clock for Pomodoro Technique using Python GUI programming with Tkinter. 
 
-## Game instructions
-Use the arrow up key to move the turtle to the other side of the street without getting hit by a car. Be careful as the cars will be moving faster, each time you level up.
+## Application instructions
+![instruction]()
 
 ## Built With
 
@@ -23,7 +21,7 @@ Use the arrow up key to move the turtle to the other side of the street without 
 ## Dependencies:
 
 1. Python v3.x is required.
-2. turtle module is also required.
+2. tkinter package is also required.
 
 
 ## Project link:
