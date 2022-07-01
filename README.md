@@ -15,7 +15,7 @@ This project builts a clock for Pomodoro Technique using Python GUI programming 
 * [Python](https://www.python.org/downloads/)
 
 ## Usage example
-<img src="https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-app.png" width="800" height="800">
+<img src="https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-app.png" width="600" height="600">
 
 ## Dependencies:
 
