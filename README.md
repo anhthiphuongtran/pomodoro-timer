@@ -15,7 +15,7 @@ This project builts a clock for Pomodoro Technique using Python GUI programming 
 * [Python](https://www.python.org/downloads/)
 
 ## Usage example
-![usage_example](https://raw.githubusercontent.com/anhthiphuongtran/turtle-crossing-game/main/play_screen.gif)
+![usage_example](https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-app.png)
 
 
 ## Dependencies:
