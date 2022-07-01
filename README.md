@@ -8,14 +8,14 @@ It was created in the 1980s by Francesco Cirillo. It breaks work down into inter
 This project builts a clock for Pomodoro Technique using Python GUI programming with Tkinter. 
 
 ## Application instructions
-<img src="https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-technique.png" width="600" height="600">
+<img src="https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-technique.png" width="500" height="500">
 
 ## Built With
 
 * [Python](https://www.python.org/downloads/)
 
 ## Usage example
-<img src="https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-app.png" width="600" height="600">
+<img src="https://raw.githubusercontent.com/anhthiphuongtran/pomodoro-timer/main/pomodoro-app.png" width="400" height="400">
 
 ## Dependencies:
 
@@ -23,4 +23,4 @@ This project builts a clock for Pomodoro Technique using Python GUI programming 
 2. tkinter package is also required.
 
 
-# [Project link](http://dev.nodeca.com)
+# [Project link](https://anhthiphuongtran.github.io/pomodoro-timer/)
